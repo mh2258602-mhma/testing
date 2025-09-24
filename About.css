@@ -1,0 +1,29 @@
+*
+{
+	margin: 0; 
+	padding: 0; 
+	box-sizing: border-box; 
+	font-family: 'Poppins', sans-serif; 
+}
+.aboutcontainer
+{
+	margin-top: 50px; 
+	display: flex;
+}
+.aboutimg
+{
+	width: 500px; 
+	margin-left: 50px; 
+}
+.abouttext
+{
+	width: 50%; 
+	margin-top: 5%; 
+	margin-left: 100px;
+}
+.abouttitle
+{
+	color: darkcyan; 
+	margin-bottom: 5%; 
+	font-size: 40px; 
+}

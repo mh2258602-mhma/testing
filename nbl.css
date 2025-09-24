@@ -1,0 +1,29 @@
+.contentpage
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 88vh;
+	font-family: 'Poppins', sans-serif
+}
+.map 
+{
+	width: 40%;
+}
+.map img 
+{
+	width: 400px;
+	height: auto;
+}
+.contenttitle {
+	padding: 20px 20px 20px 30px;
+	border-bottom: 1px solid rgba(128, 128, 128, 0.294);
+	font-size: 20px;
+	font-palette: light;
+	font-weight: 500;
+}
+.phone,.address,.website,.time 
+{
+	padding: 20px 20px 0px 30px;
+}
